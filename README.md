@@ -1,25 +1,5 @@
-
-Navigation Menu
-
-Code
-Issues
-Pull requests
- 1 star
- 2 forks
- 1 watching
- 1 Branch
- 0 Tags
- Activity
-Public repository
-jishan0908-boop/README
-Folders and files
-Name	
-Latest commit
-jishan0908-boop
-jishan0908-boop
-2 hours ago
-History
-# Computation:
+# BASIC CS KEYWORDS
+# computation:
 Computation is driven by the CPU (Central Processing Unit), GPU (Graphics Processing Unit), and ASICs (Application-Specific Integrated Circuits). These components form the backbone of data processing and number crunching in both personal and enterprise computing environments.
 
 # Hardware
