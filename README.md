@@ -58,7 +58,8 @@ Domain Name System, is a fundamental component of the internet that translates h
 # IP
 An IP address (Internet Protocol address) is a unique numerical label assigned to each device connected to a network that uses the Internet Protocol for communication. IP addresses serve two main functions:
 
-# Identification: They uniquely identify a device on a network, ensuring that data is sent to the correct destination. Location Addressing: They provide the location of a device in the network, which helps in routing data packets across the internet.
+# Identification: 
+They uniquely identify a device on a network, ensuring that data is sent to the correct destination. Location Addressing: They provide the location of a device in the network, which helps in routing data packets across the internet.
 
 # RISC-V
 RISC-V is an open-source instruction set architecture (ISA) based on the principles of Reduced Instruction Set Computing (RISC). It was designed to be a simple, modular, and extensible ISA, making it a versatile and adaptable choice for a wide range of computing applications.
